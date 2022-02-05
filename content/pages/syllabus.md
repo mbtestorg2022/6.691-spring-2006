@@ -26,29 +26,234 @@ Calendar
 
 The calendar below provides information on the course's lecture (L), quiz (Q), and project (P) sessions.
 
-| SES # | TOPICS |
-| --- | --- |
-| L1 | Introduction, Preview, Review of Concepts |
-| L2 | Complex Power, Polyphase Systems |
-| L3 | Transmission Lines, Sending and Receiving End Circle Diagrams |
-| L4 | Sending and Receiving End Circle Diagrams (cont.), Z, Y and H Parameters for Two Ports |
-| L5 | Transformers, Polyphase Connections, Start Load Flow |
-| L6 | Load Flow Problem, Setup, Matrices |
-| L7 | Newton Raphson Method, Decoupled Load Flow |
-| L8 | Basics of Synchronous Machines |
-| L9 | Synchronous Machine Models |
-| L10 | Synchronous Machine Models (cont.), Per-Unit Models, Frequency Response |
-| L11 | Machine Operation, Electromechanical Dynamics |
-| P1 | Discussion of Project Ideas |
-| Q1 | Quiz 1 |
-| L12 | Voltage Regulator, Power System Stabilizer |
-| L13 | Continued Discussion of Small Signal Behavior |
-| L14 | Generation Costs |
-| L15 | Economic Dispatch |
-| L16 | Optimal Dispatch |
-| L17 | Symmetrical Components |
-| L18 | Modeling of Faults |
-| L19 | System Protection: Relaying |
-| L20 | Slack (Catch up) |
-| P2-P4 | Project Presentations |
-| Q2 | Quiz 2
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Preview, Review of Concepts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Complex Power, Polyphase Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Transmission Lines, Sending and Receiving End Circle Diagrams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Sending and Receiving End Circle Diagrams (cont.), Z, Y and H Parameters for Two Ports
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Transformers, Polyphase Connections, Start Load Flow
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Load Flow Problem, Setup, Matrices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Newton Raphson Method, Decoupled Load Flow
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Basics of Synchronous Machines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Synchronous Machine Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Synchronous Machine Models (cont.), Per-Unit Models, Frequency Response
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Machine Operation, Electromechanical Dynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P1
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Project Ideas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q1
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Voltage Regulator, Power System Stabilizer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Continued Discussion of Small Signal Behavior
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Generation Costs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Dispatch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Optimal Dispatch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Symmetrical Components
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling of Faults
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+System Protection: Relaying
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Slack (Catch up)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P2-P4
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Q2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
